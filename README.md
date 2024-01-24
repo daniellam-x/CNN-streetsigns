@@ -1,2 +1,2 @@
 # CNN-streetsigns
-Building CNNs to classify street signs
+Building CNNs to classify street signs using PyTorch
